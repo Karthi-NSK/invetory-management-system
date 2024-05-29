@@ -1,1 +1,1 @@
-# invetory-management-system
+# Inventory-Management-System(Basic coding)
